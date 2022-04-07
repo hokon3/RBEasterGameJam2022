@@ -1,0 +1,6 @@
+Sir apocalypse is made by Håkon Mølstre for RamBase easter gamejam 2022
+
+Asset credits:
+"Animated Knight Character Pack v2.0" by rgs_dev licensed CC-BY-SA 4.0: https://opengameart.org/content/animated-knight-character-pack-v20
+"Multi Platformer Tileset" by Diego del Solar licensed CC0: https://shackhal.itch.io/multi-platformer-tileset
+"2D Soldier Guy Character" Created by. Segel T licensed CC-BY 3.0 OGA-BY 3.0: https://opengameart.org/content/2d-soldier-guy-character
