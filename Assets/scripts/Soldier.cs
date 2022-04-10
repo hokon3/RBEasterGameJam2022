@@ -19,7 +19,7 @@ public class Soldier : MonoBehaviour
         playerTransform = GameObject.FindGameObjectWithTag("Player").transform;
         damageBox = GameObject.FindGameObjectWithTag("Damager").GetComponent<BoxCollider2D>();
         soldierBox = gameObject.GetComponent<BoxCollider2D>();
-        seesPlayer = true;
+        seesPlayer = false;
         delay = 0;
     }
 
@@ -49,7 +49,13 @@ public class Soldier : MonoBehaviour
     {
         if (damageBox.IsTouching(soldierBox))
         {
+            GameObject.FindGameObjectWithTag("SoldierDeathSound").GetComponent<AudioSource>().Play();
             Destroy(gameObject);
         }
+    }
+
+    void StartGame()
+    {
+        seesPlayer = true;
     }
 }

@@ -92,6 +92,7 @@ public class Player : MonoBehaviour
         {
             animator.SetBool("Dead", true);
             EndText.SetActive(true);
+            gameObject.GetComponent<AudioSource>().Play();
         }
         else
         {
@@ -104,5 +105,14 @@ public class Player : MonoBehaviour
         yield return new WaitForSeconds(1);
         Invulnerable = false;
         animator.SetBool("Damaged", false);
+    }
+
+    void StartGame()
+    {
+        var soldiers = GameObject.FindGameObjectsWithTag("Soldier");
+        foreach (var item in soldiers)
+        {
+            item.BroadcastMessage("StartGame");
+        }
     }
 }

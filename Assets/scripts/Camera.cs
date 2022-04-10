@@ -20,5 +20,10 @@ public class Camera : MonoBehaviour
         temp.x = playerTransform.position.x;
 
         transform.position = temp;
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
     }
 }

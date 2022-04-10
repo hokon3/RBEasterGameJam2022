@@ -1,8 +1,11 @@
 Sir apocalypse is made by Håkon Mølstre for RamBase easter gamejam 2022
 
 Asset credits:
-"Animated Knight Character Pack v2.0" by rgs_dev licensed CC-BY-SA 4.0: https://opengameart.org/content/animated-knight-character-pack-v20
-"Multi Platformer Tileset" by Diego del Solar licensed CC0: https://shackhal.itch.io/multi-platformer-tileset
-"Platformer graphics (Deluxe)" by Kenney Vleugels (www.kenney.nl) licensed CC0: https://opengameart.org/content/platformer-art-deluxe
-"WW2 Soldier" by David Harrington licensed CC-BY 3.0: https://opengameart.org/content/ww2-soldier
-"Nuclear Mushroom Cloud" by United States Department of Energy licensed CC0: https://opengameart.org/content/nuclear-mushroom-cloud
+"Animated Knight Character Pack v2.0" by rgs_dev, licensed CC-BY-SA 4.0: https://opengameart.org/content/animated-knight-character-pack-v20
+"Multi Platformer Tileset" by Diego del Solar, licensed CC0: https://shackhal.itch.io/multi-platformer-tileset
+"Platformer graphics (Deluxe)" by Kenney Vleugels (www.kenney.nl), licensed CC0: https://opengameart.org/content/platformer-art-deluxe
+"WW2 Soldier" by David Harrington, licensed CC-BY 3.0: https://opengameart.org/content/ww2-soldier
+"Nuclear Mushroom Cloud" by United States Department of Energy, licensed CC0: https://opengameart.org/content/nuclear-mushroom-cloud
+"Voices - Essentials" by Nox_Sound, Licensed Standard Unity Asset Store EULA: https://assetstore.unity.com/packages/audio/sound-fx/voices/voices-essentials-214441
+"8Bit Music Album - 051321" by GWriterStudio, Licensed Standard Unity Asset Store EULA: https://assetstore.unity.com/packages/audio/music/8bit-music-album-051321-196147
+"Free Sound Effects Pack" by Olivier Girardot, Licensed Standard Unity Asset Store EULA: https://assetstore.unity.com/packages/audio/sound-fx/free-sound-effects-pack-155776
